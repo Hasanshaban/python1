@@ -8,4 +8,5 @@
 با این روش بصورت قدم به قدم هنرآموز با پایتون و ماژول ها و کتابخانه ها آشتا می شود
 # نمایش فایل آموزشی:
 مشاهده فایل آموزشی برنامه به نام birthday_L1:  <a href="https://www.aparat.com/v/a03tM" target="_blank">لینک دانلود</a> 
+
 مشاهده فایل آموزشی برنامه به نام birthday_L2:  <a href="https://www.aparat.com/v/YOvLe" target="_blank">لینک دانلود</a>
